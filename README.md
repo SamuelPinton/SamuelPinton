@@ -13,8 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelPinton&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPinton&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top languages" />
+  <img src="./profile-summary-card-output/dracula/3-stats.svg" height="150" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" height="150" alt="Top languages" />
 </div>
 
 ###
