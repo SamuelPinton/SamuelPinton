@@ -13,13 +13,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelPinton&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelPinton&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelPinton&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPinton&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top languages" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/0VD4mRWbUFEAAAAd/twerk-cs2.gif" />
+<img align="right" height="150" src="https://media1.tenor.com/m/LFH22Cxj40gAAAAd/twerk-cs2.gif" alt="CS2 gif" />
 
 ###
 
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github logo" />
 </div>
 
 ###
